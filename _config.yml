@@ -9,5 +9,3 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-midnight
-plugins:
-- jekyll-seo-tag
