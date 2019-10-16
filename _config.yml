@@ -9,6 +9,7 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-midnight
+gem 'jekyll-sitemap'
 url: https://coinsgenerator.ballquant.io
 plugins:
 - jekyll-sitemap
