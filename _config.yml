@@ -10,4 +10,4 @@ collections:
     output: true
 theme: jekyll-theme-midnight
 plugins:
-   - jekyll-seo-tag
+- jekyll-seo-tag
