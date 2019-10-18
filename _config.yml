@@ -10,6 +10,6 @@ collections:
     output: true
 theme: jekyll-theme-cayman
 url: https://coinsgenerator.ballquant.io
-gem 'jekyll-seo-tag'
 plugins:
-   - jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-seo-tag
